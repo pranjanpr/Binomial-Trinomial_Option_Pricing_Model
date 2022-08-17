@@ -1,6 +1,8 @@
 # Binomial_Option_Pricing_Model
 This repository contains the code for call options implemented via the binomial option pricing model
 
+The details of model can be found [here](https://drive.google.com/file/d/1GH97BbTVJwf1f9mmwr31S3c_geXKZDo9/view?usp=sharing).
+
 Here XYZ is represents “American Options” and ABC is the underlying commodity.
 We are using trinomial option pricing for calculating the actual price of XYZ at trading date (td).
 Implementation of price_xyz():
